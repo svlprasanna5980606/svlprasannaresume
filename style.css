@@ -30,8 +30,8 @@
 	color:green;
 }
 img{
-	width:5%;
-	height:95%;
+	width:60%;
+	height:20%;
 	border-radius:50%;
 	border:5px solid skyblue;
 	box-shadow: 10px 10px 10px black
@@ -61,7 +61,7 @@ p{
 	text-align:right;
 	box-shadow:10px 10px 10px black;
 	width:90%;
-	background-color:blue;
+	background-color:gray;
 }
 .right{
 	border: 5px solid green;
@@ -70,14 +70,14 @@ p{
 	border-radius:10%;
 	text-align:right;
 	width:90%;
-	background-color:blue;
+	background-color:gray;
 }
 #number{
 	color:green;
 }
 img{
-	width:5%;
-	height:95%;
+	width:60%;
+	height:20%;
 	border-radius:50%;
 	border:5px solid skyblue;
 	box-shadow: 10px 10px 10px black
@@ -123,8 +123,8 @@ p{
 	color:green;
 }
 img{
-	width:5%;
-	height:95%;
+	width:60%;
+	height:20%;
 	border-radius:50%;
 	border:5px solid skyblue;
 	box-shadow: 10px 10px 10px black
@@ -152,33 +152,36 @@ p{
 	padding:2%;
 	margin:2%;
 	border-radius:10%;
-	font-size:20px;
+	font-size:10px;
 	text-align:left;
 	box-shadow:10px 10px 10px black;
-	width:50%;
-	background-color:pink;
+	width:45%;
+	background-color:violet;
+	height: 30%;
 }
 .right{
 	border: 5px solid green;
 	padding:2%;
 	margin:2%;
 	border-radius:10%;
+	font-size: 10px;
 	text-align:left;
-	width:50%;
-	background-color:pink;
+	width:40%;
+	height: 30%;
+	background-color:dodgerblue;
 }
 #number{
 	color:green;
 }
 img{
-	width:20%;
-	height:20%;
-	border-radius:50%;
+	width:30%;
+	height:30%;
+	border-radius:30%;
 	border:5px solid skyblue;
 	box-shadow: 10px 10px 10px black
 }
 p{
-	font-size:20px;
-	color:purple;
+	font-size:10px;
+	color:gold;
 }
 }
